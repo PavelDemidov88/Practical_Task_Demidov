@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\bin\Debug\net6.0\Task1.4.exe
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\bin\Debug\net6.0\Task1.4.deps.json
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\bin\Debug\net6.0\Task1.4.runtimeconfig.json
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\bin\Debug\net6.0\Task1.4.dll
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\bin\Debug\net6.0\Task1.4.pdb
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.dll
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\refint\Task1.4.dll
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.pdb
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\Task1.4.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Practical_Task_1_Demidov\Task1.4\obj\Debug\net6.0\ref\Task1.4.dll
